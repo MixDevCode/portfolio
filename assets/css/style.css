@@ -17,10 +17,10 @@ span[contenteditable] {
     align-items: center;
     display: flex;
     font-family: 'Rubik', sans-serif;
-    font-size: 80px;
+    font-size: 40px;
+    background-position: calc(100% - -15vh);
     background-image: url("../img/spike.png");
     background-repeat: no-repeat;
-
     background-size: cover;
     margin-bottom: auto;
 }
